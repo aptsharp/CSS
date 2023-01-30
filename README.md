@@ -32,3 +32,15 @@ utilizando o comando `git checkout final` no seu terminal.
 [MDM WEB DOCS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS#percurso_de_aprendizagem)
 
 [Learn CSS - Google](https://web.dev/learn/css)
+
+## Fontes e materiais de apoio em Grid
+
+[Grid_Garden](https://cssgridgarden.com/)
+
+[CSS Grid Layout Module - W3Schools](https://www.w3schools.com/css/css_grid.asp)
+
+[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+[CSS Grid Layout](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout)
+
+[Grid Guide](https://www.origamid.com/projetos/css-grid-layout-guia-completo/)
