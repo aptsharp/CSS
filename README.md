@@ -21,3 +21,10 @@ que você possa se basear.
 Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
 utilizando o comando `git checkout final` no seu terminal.
 
+# Fontes e materiais de apoio
+
+[Flexbox_Floggy](https://flexboxfroggy.com)
+[Guia Completo de FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
+[Guia FlexBox](https://origamid.com/projetos/flexbox-guia-completo)
+[MDM WEB DOCS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS#percurso_de_aprendizagem)
+[Learn CSS - Google](https://web.dev/learn/css)
