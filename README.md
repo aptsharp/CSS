@@ -42,3 +42,5 @@ utilizando o comando `git checkout final` no seu terminal.
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 [CSS Grid Layout](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout)
+
+[Grid Guide](https://www.origamid.com/projetos/css-grid-layout-guia-completo/)
