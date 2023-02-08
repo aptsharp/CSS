@@ -44,3 +44,17 @@ utilizando o comando `git checkout final` no seu terminal.
 [CSS Grid Layout](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout)
 
 [Grid Guide](https://www.origamid.com/projetos/css-grid-layout-guia-completo/)
+
+## Fontes e materiais de apoio em Grid e responsividade 
+
+[Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+
+[A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+
+[Fundamentos de web design responsivo](https://web.dev/responsive-web-design-basics/)
+
+[Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+
+[9 basic principles of responsive web design](https://blog.froont.com/9-basic-principles-of-responsive-web-design/)
+
+[Using media queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
